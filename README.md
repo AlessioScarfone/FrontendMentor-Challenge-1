@@ -1,7 +1,10 @@
-# Frontend-Mentor-Challenge-1
-Beginner Challenge from Frontend Mentor (Huddle landing page with single introductory section). 
+# Frontend Mentor - Challenge 1
+Beginner Challenge from [Frontend Mentor](https://www.frontendmentor.io/) (Huddle landing page with single introductory section).
 
-**The following instructions are taken from the original challenge readme.**
+[Link to the Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-679023)
+ 
+
+### The following instructions are taken from the original challenge readme.
 
 -------
 
