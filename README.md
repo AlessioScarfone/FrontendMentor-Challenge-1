@@ -3,6 +3,7 @@ Beginner Challenge from [Frontend Mentor](https://www.frontendmentor.io/) (Huddl
 
 [Link to the Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-679023)
  
+[GitHub Page](https://alessioscarfone.github.io/FrontendMentor-Challenge-1/)
 
 ### The following instructions are taken from the original challenge readme.
 
