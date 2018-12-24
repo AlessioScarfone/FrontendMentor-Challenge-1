@@ -1,0 +1,4 @@
+- sass
+- no framework
+- flexbox
+- git pages
