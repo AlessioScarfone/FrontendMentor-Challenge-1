@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend-Mentor-Challenge-1
 Beginner Challenge from Frontend Mentor (Huddle landing page with single introductory section). The following instructions are taken from the original challenge readme.
 
@@ -56,3 +57,7 @@ Feedback is always welcome, so if you have any on this challenge please email me
 This challenge is completely free. Please share it with anyone who will find it useful to practice on.
 
 **Have fun building!** 🚀
+=======
+
+
+>>>>>>> 5f01aaae7b3412f53825fa0e4ecebc074744bc92
